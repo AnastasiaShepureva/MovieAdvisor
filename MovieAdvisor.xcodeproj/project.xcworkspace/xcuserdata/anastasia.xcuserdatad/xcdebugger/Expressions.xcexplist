@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in MovieListAPIService.getList(completion:):MovieListAPIService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "object">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Endpoint.url.getter:APIClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "components.path">
+            </PersistentString>
+            <PersistentString
+               value = "components.url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in APIClient.get&lt;&#x3c4;_0_0&gt;(_:endpoint:completion:):APIClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error as? NSError">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovieListCollectiionCell.configureCell(_:):MovieListCollectiionCell.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
